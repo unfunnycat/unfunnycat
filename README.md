@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unfunnycat" alt="unfunnycat" /></a> </p>
 
-- 🔭 I’m currently working on [Medex](N/A)
+- 🔭 I’m currently working on [OS](N/A)
 
 - 🌱 I’m currently learning **C/C++,JAVA/JAVASCRPIT,PYTHON**
 
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-**C ,C++, Java, Java Script, Python
+**C ,C++, Java, Java Script, Python**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unfunnycat&show_icons=true&locale=en" alt="unfunnycat" /></p>
