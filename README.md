@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanskar</h1>
-<h3 align="center">Im an DevOps Engineer from India I have knowledge basically in every expect of coding</h3>
+<h3 align="center">Im an learningfulstack Engineer from India I have knowledge basically in every expect of coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unfunnycat&label=Profile%20views&color=0e75b6&style=flat" alt="unfunnycat" /> </p>
 
