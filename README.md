@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanskar2407@gmail.com**
 
-- 📄 Know about my experiences Im new and learning everyday
+- 📄 Know about my experiences new and gaining experience learning everyday
 
 - ⚡ Fun fact **I love code since I was 14**
 
