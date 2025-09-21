@@ -25,6 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+**C ,C++, Java, Java Script, Python
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unfunnycat&show_icons=true&locale=en" alt="unfunnycat" /></p>
