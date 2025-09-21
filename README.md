@@ -7,21 +7,21 @@
 
 - 🔭 I’m currently working on [Medex](N/A)
 
-- 🌱 I’m currently learning **JAVA n flutter**
+- 🌱 I’m currently learning **C/C++,JAVA/JAVASCRPIT,PYTHON**
 
-- 👯 I’m looking to collaborating on [Synopsis](N/A)
+- 👯 I’m looking to collaborating on OPENSOURCE
 
-- 🤝 I’m looking for help with **devOps, backend, AI**
+- 🤝 I’m looking for help with **MachineLearning;Backend**
 
 - 📫 How to reach me **sanskar2407@gmail.com**
 
-- 📄 Know about my experiences [did worked with few start ups](did worked with few start ups)
+- 📄 Know about my experiences Im new and learning everyday
 
-- ⚡ Fun fact **YOU CAN ask For help**
+- ⚡ Fun fact **I love code since I was 14**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/unfunnycat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unfunnycat" height="30" width="40" /></a>
+<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unfunnycat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
