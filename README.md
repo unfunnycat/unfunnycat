@@ -1,78 +1,58 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Sanskar;Systems+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Future+GSoC+Contributor;Hardware+%26+Security+Researcher" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">Bridging the gap between Hardware, Kernel Code, and AI.</h3>
-
+<h1 align="center">Sanskar</h1>
+<h3 align="center">Information Science & Engineering Undergraduate</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unfunnycat&label=Profile%20views&color=0e75b6&style=flat" alt="unfunnycat" />
+  <em>Systems Programming • Network Security • Open Source Contributor</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=unfunnycat&theme=flat&no-frame=true&column=7" alt="unfunnycat" />
-  </a>
-</p>
+<br>
+
+### 👨‍💻 Professional Summary
+I am an engineering student with a strong focus on **low-level systems**, **cybersecurity**, and **embedded hardware**. My current research involves analyzing network security protocols and customizing Linux kernel environments. I am actively preparing for **Google Summer of Code (GSoC) 2026** by contributing to open-source security instrumentation.
 
 ---
 
-<div align="center">
+### 🛠 Technical Arsenal
 
- 🔭 Working on **OS Dev & Linux Customization (Hyprland)** <br/>
- 🌱 Learning **Advanced Calculus, MLSecOps & Pen-Testing** <br/>
- 👯 Looking to collaborate on **Nmap & Open Source Security** <br/>
- 🤝 Interested in **High-Frequency Trading & Math Modeling** <br/>
- ⚡ Fun fact: **I build my own Power Supplies & break my own VMs.**
-
-</div>
-
----
-
-<h3 align="center">💼 Experience & Projects</h3>
-
-| **Role** | **Description** |
+| **Domain** | **Technologies & Tools** |
 | :--- | :--- |
-| 🛡️ **GSoC Aspirant** | *Oct 2025 - Present*<br>Analyzing **Nmap** codebase, mastering Git workflows, and preparing for Google Summer of Code '26. |
-| 🕵️ **Security Researcher** | *Home Lab*<br>Configuring **Kali Linux & Parrot OS** environments. Practicing network reconnaissance and system hardening. |
-| 🔌 **Embedded Dev** | *Hobbyist*<br>Built custom **DC Power Supplies** and **Bias Lighting** systems using Arduino & C++. Bridging code with physics. |
+| **Languages** | **C, C++, Python 3** |
+| **Operating Systems** | Linux (Arch/Kali/Parrot), Windows |
+| **Security & NetOps** | Nmap, Metasploit, Wireshark, Bash Scripting |
+| **Embedded Systems** | Arduino, Circuit Design (Power Supply/Amplifiers) |
 
 ---
 
-<h3 align="center">🛠️ Languages & Arsenal</h3>
+### 📂 Selected Projects & Experience
 
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
+#### 🔹 Open Source Contribution (Nmap)
+* **Focus:** Network Discovery & Security Auditing
+* Analyzing the codebase of **Nmap** to understand scanning algorithms.
+* Mastering Git workflows (Pull Requests, Branching) in preparation for GSoC 2026.
+
+#### 🔹 Cybersecurity Lab Environment
+* **Focus:** Virtualization & Penetration Testing
+* Designed and managed a secure home lab using **VirtualBox** to simulate network vulnerabilities.
+* Configured **Kali Linux** and **Metasploitable** to practice ethical hacking and system hardening techniques.
+
+#### 🔹 Embedded Hardware Implementation
+* **Focus:** Analog Circuits & Microcontrollers
+* Experience in soldering and component-level troubleshooting.
+
+#### 🔹 Linux Environment Customization
+* **Focus:** System Administration
+* Deployed and configured **Hyprland** (Wayland compositor) for an optimized development workflow.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=unfunnycat&show_icons=true&locale=en&theme=graywhite&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfunnycat&layout=compact&theme=graywhite&hide_border=true&hide=java,javascript,html,css,shell" alt="languages" />
 </p>
 
 ---
 
-<h3 align="center">📫 Connect with me</h3>
-
-<p align="center">
-  <a href="mailto:sanskar2407@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unfunnycat&show_icons=true&locale=en&theme=tokyonight" alt="unfunnycat" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfunnycat&layout=compact&theme=tokyonight&hide=java,javascript,html,css" alt="unfunnycat" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unfunnycat&theme=tokyonight" alt="unfunnycat" />
+<p align="left">
+  📫 <strong>Contact:</strong> <a href="mailto:sanskar2407@gmail.com">sanskar2407@gmail.com</a>
 </p>
