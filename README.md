@@ -1,32 +1,38 @@
 <h1 align="center">Hi 👋, I'm Sanskar</h1>
-<h3 align="center">I'm a learning Fullstack Engineer from India. I have knowledge in basically every aspect of coding.</h3>
+<h3 align="center">Information Science Engineer & Systems Enthusiast<br>Bridging the gap between Hardware, Kernel Code, and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unfunnycat&label=Profile%20views&color=0e75b6&style=flat" alt="unfunnycat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unfunnycat" alt="unfunnycat" /></a> </p>
 
-- 🔭 I’m currently working on [OS](N/A)
+- 🔭 I’m currently working on **OS Development & Linux Customization (Hyprland)**
 
-- 🌱 I’m currently learning **C, C++, Python3**
+- 🌱 I’m currently learning **Advanced Calculus, MLSecOps, and Penetration Testing**
 
-- 👯 I’m looking to collaborate on OPENSOURCE
+- 👯 I’m looking to collaborate on **Open Source Security Tools (Nmap) & GSoC '26**
 
-- 🤝 I’m looking for help with **Machine Learning; Backend**
+- 🤝 I’m looking for help with **Low-Latency Algorithms (HFT) & Mathematical Modeling**
 
 - 📫 How to reach me **sanskar2407@gmail.com**
 
-- ⚡ Fun fact **I love code since I was 14**
+- ⚡ Fun fact **I build my own circuits (Power Supplies/Amps) and break into my own VMs.**
 
-<h3 align="left">💼 Experience:</h3>
+<h3 align="left">💼 Experience & Projects:</h3>
 
-- <b>[Job Title / Role]</b> @ [Company/Organization Name]
-  <br><i>[Start Date] - [End Date]</i>
-  <br>• Description of what you built or learned.
-  <br>• Description of a key achievement.
+- <b>Open Source Contributor (GSoC Prep)</b>
+  <br><i>Oct 2025 - Present</i>
+  <br>• Actively analyzing and contributing to the <b>Nmap</b> codebase and mastering Git workflows.
+  <br>• preparing for Google Summer of Code 2026 with a focus on network security and scanning tools.
 
-- <b>[Job Title / Role]</b> @ [Company/Organization Name]
-  <br><i>[Start Date] - [End Date]</i>
-  <br>• Description of what you built or learned.
+- <b>Cybersecurity Researcher (Home Lab)</b>
+  <br><i>Self-Paced</i>
+  <br>• Configured and managed virtualized environments (Kali Linux, Parrot OS, Metasploitable) for ethical hacking practice.
+  <br>• Gaining proficiency in network reconnaissance and system hardening.
+
+- <b>Embedded Systems Developer</b>
+  <br><i>Hobbyist Project</i>
+  <br>• Designed and built custom hardware solutions, including a DC power supply and DIY ambient bias lighting using Arduino and WS2812B LEDs.
+  <br>• Bridging C++ code with physical hardware components.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,6 +53,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unfunnycat&show_icons=true&locale=en" alt="unfunnycat" /></p>
-
-
-
