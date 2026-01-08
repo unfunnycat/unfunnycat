@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OS](N/A)
 
-- 🌱 I’m currently learning **C/C++,JAVA/JAVASCRPIT,PYTHON**
+- 🌱 I’m currently learning **C, C++, Python3**
 
 - 👯 I’m looking to collaborating on OPENSOURCE
 
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-**C ,C++, Java, Java Script, Python**
+**C, C++, Python3**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unfunnycat&show_icons=true&locale=en" alt="unfunnycat" /></p>
